@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'cloudlabs'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1EF0307A0F9649738CAE708C071F006C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7809F89DA9FF48CEADA14E62326C2B9F }}
           package: .
